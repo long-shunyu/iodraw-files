@@ -19,8 +19,8 @@
         <mxCell id="u79MXhK4vWThD-_QP6NH-4" value="前端上传图像数据到后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u79MXhK4vWThD-_QP6NH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="u79MXhK4vWThD-_QP6NH-5" value="通过RESTfULAPI将数据发送到后端应用服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="540" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
