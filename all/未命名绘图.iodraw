@@ -28,6 +28,9 @@
         <mxCell id="u79MXhK4vWThD-_QP6NH-7" value="是否操作涉及数据库?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="660" width="130" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="u79MXhK4vWThD-_QP6NH-8" value="虫害识别模块利用CNN)CPA技术处理图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="670" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
