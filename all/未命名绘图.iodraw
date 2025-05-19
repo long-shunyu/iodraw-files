@@ -106,8 +106,8 @@
         <mxCell id="u79MXhK4vWThD-_QP6NH-33" value="涉及图像处理(虫害识别)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="288" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u79MXhK4vWThD-_QP6NH-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="668" width="50" height="30" as="geometry" />
+        <mxCell id="u79MXhK4vWThD-_QP6NH-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="720" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
