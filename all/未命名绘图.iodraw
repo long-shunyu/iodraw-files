@@ -91,11 +91,17 @@
         <mxCell id="u79MXhK4vWThD-_QP6NH-13" value="后端处理业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="940" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="u79MXhK4vWThD-_QP6NH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u79MXhK4vWThD-_QP6NH-15" target="u79MXhK4vWThD-_QP6NH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u79MXhK4vWThD-_QP6NH-15" value="将处理结果通过RESTTULAPI返回前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1050" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u79MXhK4vWThD-_QP6NH-16" value="前端展示结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u79MXhK4vWThD-_QP6NH-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="278" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
