@@ -55,8 +55,8 @@
         <mxCell id="u79MXhK4vWThD-_QP6NH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u79MXhK4vWThD-_QP6NH-7" target="u79MXhK4vWThD-_QP6NH-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="170" y="715" />
-              <mxPoint x="170" y="975" />
+              <mxPoint x="160" y="715" />
+              <mxPoint x="160" y="975" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="u79MXhK4vWThD-_QP6NH-12" value="虫害识别结果返回后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="810" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u79MXhK4vWThD-_QP6NH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u79MXhK4vWThD-_QP6NH-13" target="u79MXhK4vWThD-_QP6NH-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u79MXhK4vWThD-_QP6NH-13" value="后端处理业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="940" width="140" height="70" as="geometry" />
