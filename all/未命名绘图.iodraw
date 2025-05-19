@@ -10,7 +10,7 @@
         <mxCell id="u79MXhK4vWThD-_QP6NH-1" value="用户访问系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u79MXhK4vWThD-_QP6NH-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u79MXhK4vWThD-_QP6NH-2" value="操作类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
