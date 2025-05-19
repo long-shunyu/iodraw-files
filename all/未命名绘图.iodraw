@@ -40,8 +40,8 @@
         <mxCell id="u79MXhK4vWThD-_QP6NH-13" value="后端处理业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="940" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="u79MXhK4vWThD-_QP6NH-14" value="将处理结果通过RESTTULAPI返回前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1060" width="120" height="60" as="geometry" />
+        <mxCell id="u79MXhK4vWThD-_QP6NH-15" value="后端处理业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="950" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
