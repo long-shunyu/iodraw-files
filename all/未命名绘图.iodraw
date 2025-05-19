@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u79MXhK4vWThD-_QP6NH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9b41qNxRVwwXfBzexe0-1" target="u79MXhK4vWThD-_QP6NH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k9b41qNxRVwwXfBzexe0-1" value="进入前端用户界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u79MXhK4vWThD-_QP6NH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u79MXhK4vWThD-_QP6NH-1" target="k9b41qNxRVwwXfBzexe0-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u79MXhK4vWThD-_QP6NH-1" value="用户访问系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u79MXhK4vWThD-_QP6NH-2" value="操作类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u79MXhK4vWThD-_QP6NH-3" value="前端收集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
