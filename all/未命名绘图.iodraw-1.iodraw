@@ -14,11 +14,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZzOJMH7nCMQiGN82eXf-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4ZzOJMH7nCMQiGN82eXf-47">
-          <mxGeometry x="-0.5394" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4ZzOJMH7nCMQiGN82eXf-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="30" width="100" height="40" as="geometry" />
         </mxCell>
@@ -55,6 +50,12 @@
         </mxCell>
         <mxCell id="4ZzOJMH7nCMQiGN82eXf-35" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZzOJMH7nCMQiGN82eXf-61" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
