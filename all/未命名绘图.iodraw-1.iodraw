@@ -22,8 +22,8 @@
         <mxCell id="4ZzOJMH7nCMQiGN82eXf-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4ZzOJMH7nCMQiGN82eXf-6" target="4ZzOJMH7nCMQiGN82eXf-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZzOJMH7nCMQiGN82eXf-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="162.5" y="620" width="105" height="40" as="geometry" />
+        <mxCell id="4ZzOJMH7nCMQiGN82eXf-6" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;形状识别、距离估算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="161.25" y="620" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4ZzOJMH7nCMQiGN82eXf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4ZzOJMH7nCMQiGN82eXf-7" target="4ZzOJMH7nCMQiGN82eXf-6">
           <mxGeometry relative="1" as="geometry" />
