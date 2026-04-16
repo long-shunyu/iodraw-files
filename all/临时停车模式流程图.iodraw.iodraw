@@ -1,0 +1,146 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="aEe4u8udx_UlzZA2ykgs">
+    <mxGraphModel dx="1002" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CVCV_lQ86U1Klpi3jLa9-4" target="CVCV_lQ86U1Klpi3jLa9-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;机动车进入违停检测区域&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="273" y="50" width="282" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CVCV_lQ86U1Klpi3jLa9-5" target="CVCV_lQ86U1Klpi3jLa9-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;球机采集图像给内置检测模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="160" width="278" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CVCV_lQ86U1Klpi3jLa9-7" target="CVCV_lQ86U1Klpi3jLa9-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;违停检测模块检测车辆目标并跟踪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="270" width="278" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="CVCV_lQ86U1Klpi3jLa9-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="662" y="120" as="targetPoint" />
+            <mxPoint x="521" y="420" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="680" y="420" />
+              <mxPoint x="680" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-12" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CVCV_lQ86U1Klpi3jLa9-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.7094" y="1" relative="1" as="geometry">
+            <mxPoint x="-12" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CVCV_lQ86U1Klpi3jLa9-9" target="CVCV_lQ86U1Klpi3jLa9-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-19" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CVCV_lQ86U1Klpi3jLa9-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;检测到违停?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="307" y="380" width="214" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CVCV_lQ86U1Klpi3jLa9-14" target="CVCV_lQ86U1Klpi3jLa9-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;检测车辆位置信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="510" width="278" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CVCV_lQ86U1Klpi3jLa9-16" target="CVCV_lQ86U1Klpi3jLa9-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;球机跟踪放大及车牌识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="620" width="278" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CVCV_lQ86U1Klpi3jLa9-18" target="CVCV_lQ86U1Klpi3jLa9-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-26" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CVCV_lQ86U1Klpi3jLa9-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.5506" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CVCV_lQ86U1Klpi3jLa9-18" target="fQaXN-fU1UVq8g2ksb9J-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-29" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="CVCV_lQ86U1Klpi3jLa9-28" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;车牌识别成功？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="307" y="730" width="214" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CVCV_lQ86U1Klpi3jLa9-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVCV_lQ86U1Klpi3jLa9-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;球机预测位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQaXN-fU1UVq8g2ksb9J-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQaXN-fU1UVq8g2ksb9J-1" target="fQaXN-fU1UVq8g2ksb9J-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-5" value="等待n/3s" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fQaXN-fU1UVq8g2ksb9J-4">
+          <mxGeometry x="-0.144" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;设置校验预置位并回归检测预置位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="860" width="278" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQaXN-fU1UVq8g2ksb9J-3" target="fQaXN-fU1UVq8g2ksb9J-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-9" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fQaXN-fU1UVq8g2ksb9J-8">
+          <mxGeometry x="-0.168" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;调用校验预置位并进行车牌识别&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="970" width="278" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQaXN-fU1UVq8g2ksb9J-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-11" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fQaXN-fU1UVq8g2ksb9J-10">
+          <mxGeometry x="-0.6868" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQaXN-fU1UVq8g2ksb9J-6" target="fQaXN-fU1UVq8g2ksb9J-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-13" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fQaXN-fU1UVq8g2ksb9J-12">
+          <mxGeometry x="-0.208" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;识别结果与之前一致?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="1080" width="214" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQaXN-fU1UVq8g2ksb9J-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成违法记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="1210" width="282" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
