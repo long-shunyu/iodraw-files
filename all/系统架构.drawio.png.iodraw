@@ -1,0 +1,31 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="5XPY3aDNKX6oJ--NKcq1">
+    <mxGraphModel dx="988" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FNeOB9kmLsF34aowkomi-2" value="&lt;p style=&quot;text-autospace:ideograph-numeric;mso-pagination:none;line-height:18.0000pt;&#xa;mso-line-height-rule:exactly;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;应用层：监控显示界面&lt;/font&gt; &lt;font face=&quot;宋体&quot;&gt;| 菜单交互 | 参数配置&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="120" width="396" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FNeOB9kmLsF34aowkomi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FNeOB9kmLsF34aowkomi-3" target="FNeOB9kmLsF34aowkomi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNeOB9kmLsF34aowkomi-3" value="&lt;p style=&quot;text-autospace:ideograph-numeric;mso-pagination:none;line-height:18.0000pt;&lt;br/&gt;mso-line-height-rule:exactly;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;业务层：车辆跟踪&lt;/font&gt; &lt;font face=&quot;宋体&quot;&gt;| 车牌识别 | 违章判定 | 证据留存&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="210" width="396" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FNeOB9kmLsF34aowkomi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNeOB9kmLsF34aowkomi-4" target="FNeOB9kmLsF34aowkomi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNeOB9kmLsF34aowkomi-4" value="&lt;p style=&quot;text-autospace:ideograph-numeric;mso-pagination:none;line-height:18.0000pt;&lt;br/&gt;mso-line-height-rule:exactly;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;算法层：&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;YOLO检测 | PaddleOCR | 图像预处理&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="300" width="396" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FNeOB9kmLsF34aowkomi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FNeOB9kmLsF34aowkomi-5" target="FNeOB9kmLsF34aowkomi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNeOB9kmLsF34aowkomi-5" value="&lt;p style=&quot;text-autospace:ideograph-numeric;mso-pagination:none;line-height:18.0000pt;&lt;br/&gt;mso-line-height-rule:exactly;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;数据层：摄像头采集&lt;/font&gt; &lt;font face=&quot;宋体&quot;&gt;| 视频文件读取&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="390" width="396" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
